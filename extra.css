@@ -1,0 +1,55 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+
+body {
+    background-color: black;
+    min-height: 100vh;
+}
+
+
+.navbarHeight {
+    min-height: 97vh;
+}
+
+
+.list-unstyled {
+    min-height: 63vh;
+}
+
+
+.btn-outline-secondary {
+    border-radius: 20px;
+}
+
+.btn-light {
+    border-radius: 35px;
+    width: 140px;
+    height: 55px;
+}
+
+.btn-light:hover {
+    height: 57px;
+}
+
+
+.border-darks:hover {
+    background: rgb(37, 37, 37);
+}
+
+
+.footer-bg {
+    background: rgb(149, 17, 156);
+    background: linear-gradient(90deg, rgba(162, 27, 168, 1) 0%, rgba(161, 73, 156, 1) 46%, rgb(146, 9, 139) 100%, rgba(0, 212, 255, 1) 100%);
+    width: 100%;
+    height: 75px;
+    border-radius: 10px;
+}
+
+
+.buttonWitdh{
+    width: 190px;
+}
+
+.buttonWitdh:hover{
+    width: 195px;
+}
